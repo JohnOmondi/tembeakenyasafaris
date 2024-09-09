@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967796547704",
+    "project_id": "tembeakenyasafaris-9a003",
+    "storage_bucket": "tembeakenyasafaris-9a003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967796547704:android:2f4e5e58c5d16bce44cd8d",
+        "android_client_info": {
+          "package_name": "com.example.tembeakenyasafaris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDOzl9QFB_oAysd0Y-xAkX5PRGWbU5t9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
